@@ -26,9 +26,16 @@
   .main-wrapper .upper-row {
     margin-bottom: 0;
   }
+  .profile-sidebar {
+    position: relative;
+  }
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+  .profile-sidebar {
+    position: fixed;
+  }
+
 }
 
 /* Medium devices (desktops, 992px and up) */
