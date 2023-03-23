@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Lina Contreras
-    tagline: Especialista en Comunicación
+    tagline: Especialista en Marketing y Comunicación
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,12 +17,12 @@ sidebar:
     timezone: Argentina
     citizenship: Colombia / Turquía
     # website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: linamarca
     github: linatecno
     telegram: linamarca
     gitlab:
     bitbucket:
-    # twitter: '@webjeda'
+    # twitter: '@LinaAni'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,10 +40,16 @@ sidebar:
     interests:
       title: Intereses
       info:
-        - item: Astrología
+        - item: Comunicación
           link:
 
-        - item: Cooking
+        - item: Astrología
+          link:
+          
+        - item: Blogging
+          link:
+          
+        - item: Fotografía
           link:
 
 career-profile:
