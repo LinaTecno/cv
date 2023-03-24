@@ -1,3 +1,4 @@
+{% assign sidebar = site.data.data.sidebar %}
 <head>
   <title>{{ site.title }}</title>
 
@@ -8,7 +9,7 @@
   {% endif%}
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ site.description |default: "A beautiful
+  <meta name="description" content="{{ sidebar.description |default: "A beautiful
   Jekyll theme for creating resume" }}">
 
   <!-- Favicon -->
@@ -33,7 +34,7 @@
 
 	<meta property="og:image" content="{{ site.url }}/assets/images/profile.png"/>
 
-	<meta property="og:description" content="{{ site.description }}"/>
+	<meta property="og:description" content="{{ sidebar.description }}"/>
 
 	<meta property="og:url" content="{{ site.url }}"/>
 </head>

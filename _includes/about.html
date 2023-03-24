@@ -1,10 +1,11 @@
+{% assign about = site.data.data.sidebar.about %}
 <div class="print remove-container container-block">
   <h2 class="container-block-title">
-    Imprimir mi CV
+    {{ about.title }}
   </h2>
   <ul class="list-unstyled interests-list">
     <li><i class="fas fa-print"></i>
-        <a target="_blank" onclick="window.print();return false;" href="#">Imprimir o guardar como PDF</a>
+        <a target="_blank" onclick="window.print();return false;" href="#">{{ about.link }}</a>
     </li>
     <!-- <li><i class="fas fa-file-pdf"></i>
       <a href="/lina_contreras-cv.pdf">Descargar PDF</a>
