@@ -14,6 +14,8 @@ sidebar:
     # Sidebar links
     born: 10 de Junio de 1983
     citizenship: Colombia / Turquía
+
+    website: lina.tecno.social
     email: lina@tecno.social
     phone: 573004317808
     timezone:
@@ -41,9 +43,6 @@ sidebar:
     interests:
       title: Intereses
       info:
-        - item: Comunicación
-          link:
-
         - item: Astrología
           link:
 
@@ -147,7 +146,7 @@ publications:
     title: Publicaciones
     papers:
       - title: Expectativas de uso de las Facebook fan page, componentes e implicaciones
-        link: "https://www.researchgate.net/profile/Arlen-Valdes/publication/341451691_Estrategia_de_marketing_en_Pyme_con_base_al_interes_del_millennial_socialmente_responsable_y_su_decision_de_compra/links/5ec207ee458515626cb0a92a/Estrategia-de-marketing-en-Pyme-con-base-al-interes-del-millennial-socialmente-responsable-y-su-decision-de-compra.pdf"
+        link: "https://evo.re/lina1"
         authors: Lina Margarita Contreras Quintero, Claudia Giobanna Nova Villarraga y Leonardo Ortegón-Cortázar
         conference:  Estrategias de mercadotecnia en mercados específicos. Universidad Autónoma de México, 2020
 

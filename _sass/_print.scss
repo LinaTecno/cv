@@ -7,33 +7,64 @@
        font-size: 12pt;
     }
 
+
+    a[href]:after {
+      content: none !important;
+    }
+
     img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
-   .main-wrapper .time {
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
-   }
+    .main-wrapper{
+      width: 60%;
+      float: left;
+      text-align: justify;
+
+    }
     .sidebar-wrapper {
+        font-size: 11pt;
         position: static;
         float: right;
         width: 40%;
-        -webkit-print-color-adjust: exact; 
+        height:300%;
+        -webkit-print-color-adjust: exact;
+        border-left: 1px solid #ccc;
     }
+
+    .main-wrapper  .upper-row {
+      margin-bottom: 10px;
+    }
+    .main-wrapper .job-title, .main-wrapper .degree {
+      flex: 75%;
+      // width: 100px;
+      text-align: left;
+      font-size: 13pt;
+      float:left
+    }
+    .main-wrapper .time {
+        float: right;
+         color: black !important;
+         -webkit-print-color-adjust: exact;
+         margin-top: -2px;
+
+    }
+
 
     .remove-container.container-block {
        display: none;
     }
 
     footer {
-       display: none;
+       // display: none;
+       display: block;
+       clear:both;
+       // float:left;
     }
 
     .skillset .level-bar-inner {
        background-color: black !important;
-       -webkit-print-color-adjust: exact; 
+       -webkit-print-color-adjust: exact;
     }
 
    .fa-inverse,
@@ -41,5 +72,6 @@
    .fa-inverse:before {
      color: #ffffff !important;
    }
+
 
 }
