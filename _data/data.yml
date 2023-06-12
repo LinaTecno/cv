@@ -88,7 +88,12 @@ education:
           Esta formación está enfocada en un perfil creativo, analista o estratega en la ideación de campañas, con un amplio conocimiento en herramientas digitales para la creación y gestión de estrategias de comunicación que me han permitido desenvolverme en los campos de la publicidad, el marketing digital y áreas afines.
             - Obtención de media beca económica durante 3 años por desempeño académico.
             - Trabajo de grado con calificación 4.9 por la creación de la estrategia digital de comunicación para la comunidad universitaria llamada "Conexión central".
-
+            
+     - degree: Diplomado "Gerencia y Programación de Proyectos PMI y SCRUM".
+        university: Universidad CAFAM (CO)
+        time: 2023
+        details: |
+          Conocimiento en diversas etapas de la gestión de proyectos en el marco de la filosofía del PMI y otras.
 
 experiences:
     title: Experiencia
@@ -140,8 +145,12 @@ experiences:
           Responsable del plan de contenidos en redes sociales, con el objetivo de fortalecer la comunidad, aumentar el posicionamiento de la tienda virtual y las conversiones. Haciendo seguimiento de métricas, implementación de pauta, creación de la grilla de contenidos para las redes sociales (Redacción, diseño y producción), <i>benchmark</i> de competidores en medios sociales, cubrimiento de eventos, atención al cliente por canales digitales y mantenimiento de los sitios web y el <i>e-commerce</i>.
 
 projects:
-    title: Proyectos propios
+    title: Proyectos
     assignments:
+      - title: Proyecto Florecer
+        link: "https://proyectoflorecer.org/"
+        tagline: "Cree una estrategia digital para cumplir los objetivos de la fundación"
+        
       - title: tecno.social
         link: "https://tecno.social"
         tagline: "Soy una de las socias fundadoras de esta cooperativa de comunicación y tecnología, donde un grupos de amigxs unimos experiencias e ideales para trabajar de forma colaborativa apoyando a organizaciones sociales, empresas locales, cooperativas y ONGs a desarrollar sus proyectos en medios digitales."
