@@ -86,11 +86,16 @@ education:
           This training is focused on a creative profile, analyst or strategist in the ideation of campaigns, with extensive knowledge in digital tools for the creation and management of communication strategies that have allowed me to develop in the fields of advertising, digital marketing and related areas.
             - Obtained a half scholarship for 3 years for academic performance.
             - Graduate work with a grade of 4.9 for the creation of the digital communication strategy for the university community called "Conexión central".
+
+courses:
+    title: Courses and specializations
+    info:
       - degree: Diploma in Project Management and Programming PMI and SCRUM.
         university: Universidad CAFAM (CO)
         time: 2023
         details: |
           Knowledge in various stages of project management within the framework of the PMI philosophy and others.
+
 
 experiences:
     title: Experience
@@ -151,10 +156,10 @@ projects:
       - title: astrologia.social
         link: "https://astrologia.social"
         tagline: "I am passionate about astrology and other related techniques for self-knowledge. With this new project I seek to provide tools for its understanding and dissemination."
-        
-      - title: Project flourish
-        link: "https://proyectoflorecer.org/"
-        tagline: "Creation of the digital strategy for the foundation"
+
+      - title: Flourish Project
+        link: "https://proyectoflorecer.org/?lang=en"
+        tagline: "I created a digital communication strategy to meet the objectives of this Colombian NGO dedicated to the promotion of women's rights, community empowerment and the promotion of educational opportunities for their families."
 
 
 publications:

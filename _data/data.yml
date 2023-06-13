@@ -88,12 +88,14 @@ education:
           Esta formación está enfocada en un perfil creativo, analista o estratega en la ideación de campañas, con un amplio conocimiento en herramientas digitales para la creación y gestión de estrategias de comunicación que me han permitido desenvolverme en los campos de la publicidad, el marketing digital y áreas afines.
             - Obtención de media beca económica durante 3 años por desempeño académico.
             - Trabajo de grado con calificación 4.9 por la creación de la estrategia digital de comunicación para la comunidad universitaria llamada "Conexión central".
-            
-     - degree: Diplomado "Gerencia y Programación de Proyectos PMI y SCRUM".
+
+courses:
+    title: Cursos y especializaciones
+    info:
+      - degree: Diplomado "Gerencia y Programación de Proyectos PMI y SCRUM".
         university: Universidad CAFAM (CO)
         time: 2023
         details: |
-          Conocimiento en diversas etapas de la gestión de proyectos en el marco de la filosofía del PMI y otras.
 
 experiences:
     title: Experiencia
@@ -147,10 +149,7 @@ experiences:
 projects:
     title: Proyectos
     assignments:
-      - title: Proyecto Florecer
-        link: "https://proyectoflorecer.org/"
-        tagline: "Cree una estrategia digital para cumplir los objetivos de la fundación"
-        
+
       - title: tecno.social
         link: "https://tecno.social"
         tagline: "Soy una de las socias fundadoras de esta cooperativa de comunicación y tecnología, donde un grupos de amigxs unimos experiencias e ideales para trabajar de forma colaborativa apoyando a organizaciones sociales, empresas locales, cooperativas y ONGs a desarrollar sus proyectos en medios digitales."
@@ -158,6 +157,10 @@ projects:
       - title: astrologia.social
         link: "https://astrologia.social"
         tagline: "Soy una apasionada de la astrología y otros técnicas relacionadas para el autoconocimiento. Con este nuevo proyecto busco brindar herramientas para su comprensión y difusión."
+
+      - title: Proyecto Florecer
+        link: "https://proyectoflorecer.org/"
+        tagline: "Creé una estrategia de comunicacíón digital para cumplir los objetivos de esta ONG colombiana abocada a la promoción de los derechos de la mujer, el fortalecimiento comunitario y la promoción de oportunidades educativas para sus familias."
 
 
 publications:
