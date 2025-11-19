@@ -18,7 +18,7 @@ sidebar:
 
     website: lina.tecno.social/en
     email: lina@tecno.social
-    phone: 5492921435720
+    phone: +573115405778
     timezone:
     # website: blog.webjeda.com #do not add http://
     linkedin: linamarca
@@ -159,8 +159,8 @@ projects:
         link: "https://tecno.social"
         tagline: "I am one of the founding members of this communication and technology cooperative, where a group of friends join experiences and ideals to work collaboratively supporting social organizations, local businesses, cooperatives and NGOs to develop their projects in digital media."
 
-      - title: astrologia.social
-        link: "https://astrologia.social"
+      - title: Astrología Social
+        link: "https://astrologiasocial.org"
         tagline: "I am passionate about astrology and other related techniques for self-knowledge. With this new project I seek to provide tools for its understanding and dissemination."
 
       - title: Flourish Project
@@ -208,8 +208,8 @@ skills:
       - name: Meta Business Manager
         level: 90%
 
-      - name: Capuccinos :)
-        level: 100%
+      - name: Barista :)
+        level: 30%
 
 footer: >
     Last updated: 23.03.2023
