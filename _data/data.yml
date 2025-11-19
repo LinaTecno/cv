@@ -161,8 +161,8 @@ projects:
         link: "https://tecno.social"
         tagline: "Soy una de las socias fundadoras de esta cooperativa de comunicación y tecnología, donde un grupos de amigxs unimos experiencias e ideales para trabajar de forma colaborativa apoyando a organizaciones sociales, empresas locales, cooperativas y ONGs a desarrollar sus proyectos en medios digitales."
 
-      - title: astrologia.social
-        link: "https://astrologia.social"
+      - title: Astrología Social
+        link: "https://astrologiasocial.org"
         tagline: "Soy una apasionada de la astrología y otros técnicas relacionadas para el autoconocimiento. Con este nuevo proyecto busco brindar herramientas para su comprensión y difusión."
 
       - title: Proyecto Florecer
@@ -210,8 +210,8 @@ skills:
       - name: Meta Business Manager
         level: 90%
 
-      - name: Capuccinos :)
-        level: 100%
+      - name: Barismo
+        level: 30%
 
 footer: >
     Última actualización: 23.03.2023
