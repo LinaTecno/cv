@@ -198,25 +198,25 @@ skills:
     title: Habilidades Clave
 
     toolset:
-      - name: Diseño: Adobe Creative Suite y Canva
-        level: 85%
+      - name: Diseño (Adobe Suite y Canva)
+        level: 90%
 
-      - name: Web / CMS: WordPress · Squarespace · Shopify
-        level: 85%
-
-      - name: Analítica: Google Analytics (GA4)
+      - name: Web, CMS (WordPress, Squarespace, Shopify)
         level: 70%
 
-      - name: Social & pauta: Meta Business Manager · Google Ads · Hootsuite
+      - name: Analítica (GA4)
         level: 70%
 
-      - name: Email & CRM: HubSpot · Mailchimp
+      - name: Social & pauta (Meta, G Ads, Hootsuite)
+        level: 70%
+
+      - name: Email & CRM (HubSpot, Mailchimp)
         level: 95%
 
-      - name: IA & automatización: ChatGPT · IA generativa aplicada a contenidos
+      - name: IA & automatización (ChatGPT, IA generativa)
         level: 70%
 
-      - name: Gestión & colaboración: Google Workspace · Discord · Slack · ClickUp · GitHub
+      - name: Gestión & colaboración (G Workspace, Discord, Slack, ClickUp, GitHub)
         level: 75%
 
       - name: Barismo
