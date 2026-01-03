@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Lina Contreras
     description: My updated professional resume, you can view it on the screen, download it or print it.
-    tagline: Communication specialist
+    tagline: Senior Marketing & Communications Strategist | Content, Brand & Purpose-driven Growth
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,10 +46,10 @@ sidebar:
     interests:
         title: Interests
         info:
-          - item: Astrology
+          - item: Environment
             link:
 
-          - item: Blogging
+          - item: Communication
             link:
 
           - item: Photography
@@ -58,7 +58,7 @@ sidebar:
           - item: Drawing
             link:
 
-          - item: Cycling-culture
+          - item: Astrology
             link:
 
     about:
@@ -68,7 +68,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Hi, I'm Lina. <i>Bici-lover</i>, passionate about the arts, trained in communication, advertising and with a master's degree in <i>marketing</i>. About 15 years ago I started my professional career in these areas performing in different roles and working in teams with other professionals in communication and technology, which have left me valuable lessons both at a human and professional level. Thanks to this, I developed a strategic and creative approach with which I have supported organizations from various sectors to achieve their goals. Today, my professional search is oriented towards projects that have a strong social and environmental sense, where the collective welfare is prioritized and the objectives have a positive impact in this global context of great challenges and profound transformations.
+        Hi, I'm Lina. <i>Senior marketing and communications strategist</i>, with over 15 years of experience leading comprehensive brand, content, and digital positioning plans in corporate sectors, agencies, NGOs, and social impact ventures. Specialist in omnichannel content strategy, branding, inbound marketing, analytics, and community building. Career combining strategic vision, creative execution, and measurable results, with a strong focus on projects with social, environmental, and territorial development impact.
 
 education:
     title: Education
@@ -100,20 +100,28 @@ courses:
 experiences:
     title: Experience
     info:
+    
+      - role: Communication & Content Strategist (Freelance)
+        time: 2025
+        company: <b><a href="https://www.cocosalvaje.com/">Coco Salvaje</a></b>, Natural products, local development. Moñitos (CO)
+        details: |
+          - Led the strategic content repositioning for H2 2025, establishing a new narrative framework aligned with sustainability and local economic development.
+          - Defined editorial pillars and a content roadmap focused on community-driven storytelling and social impact.
+          - Positioned the brand as an enabler of economic opportunity in underserved regions with limited industrial infrastructure.
+          
       - role: Head of Marketing and Communications
         time: 2018 - 2023
-        company: <b>Grupo Sitt y cia</b>, mobility, transit and transportation sector. Bogotá (CO)
+        company: <b>Grupo Sitt y cia</b>, Civil engineering, traffic, and transportation sector. Bogotá (CO)
         details: |
-          Creation and execution of the strategic marketing and communication plan for <a href="https://www.sittycia.com/">Sitt</a> and support to the companies of the group (<a href="https://www.pivingenieria.com/">PIV Ingeniería</a>, <a href="https://www.servitrans.co/">Servitrans</a> and <a href="https://www.akencapital.com/">Aken Capital</a>) to strengthen and position the brands, their services and attract new clients and allies from the public and private sector related to the niches of interest such as government, engineering, mobility, construction and investments.
-            - Strengthening the Marketing and Communications area for the group's companies by structuring and expanding it.
-            - Attraction of profiles of the engineering, mobility and transit niche, through own digital events or third parties participating as sponsors and <i>speakers</i>.
-            - Increase in traffic to the site of 10% each year and organic positioning in <i>keywords</i> of interest to the brand such as: electronic detection, what is simit, road safety plan, among others, achieving top positions through a content strategy and improvements in SEO and <i>mailing marketing</i> activities.
-            - Administration of group pages and social networks (Sitt & Cía, PIV Ingeniería, Servitrans and Aken Capital).
-            - Brand and image creation for new products and services.
-            - Accompanying the Corporate Social Responsibility (CSR) team to make visible the social problem <a href='https://www.youtube.com/watch?v=haroBBqaxTc'>"Disability of Road Origin"</a>. Designing and producing the publications that reported the figures.
-            - Writing and art direction of sustainability reports.
-            - Training in <i>digital marketing</i> for the allied team of Camara Britanica (Britcham).
-            - Creation of internal communications plan with the objective of cultural change that has generated a more informed and proactive community, increasing participation in internal activities by 20%.
+         Led the marketing and communications strategy for <a href="https://www.sittycia.com/">Sitt & Cía</a> and its group companies (<a href="https://www.pivingenieria.com/">PIV Ingeniería</a>, <a href="https://www.servitrans.co/">Servitrans</a>, and <a href="https://www.akencapital.com/">Aken Capital</a>), strengthening brand positioning, service visibility, and demand generation across public and private sector audiences within government, engineering, mobility, construction, and investment ecosystems..
+         - Built and scaled the group’s Marketing & Communications function, integrating branding, content strategy, SEO, and institutional communications.
+         - Designed and executed a content marketing and SEO strategy that delivered sustained organic web traffic growth of ~10% year over year and top search rankings for strategic keywords such as electronic detection, what is SIMIT, and road safety plan.
+         - Drove audience acquisition through digital events, industry sponsorships, and participation as speakers in sector-specific forums.
+         - Led email marketing and database segmentation initiatives, incorporating data analysis and Python scripting to improve targeting and performance.
+         - Oversaw the digital presence and social media strategy across all group companies, ensuring brand consistency and alignment.
+         - Supported Corporate Social Responsibility initiatives by raising visibility around <a href="https://www.youtube.com/watch?v=haroBBqaxTc">“Road Traffic Disability”</a>, and directing the writing and art direction of sustainability reports.
+         - Designed and implemented the internal communications strategy, driving cultural change and increasing internal engagement by 20%.
+         - Delivered digital marketing training for strategic partners, including the British Chamber of Commerce (Britcham).
             
       - role: Communication and Content Coordinator
         time: 2019 - 2023
@@ -121,36 +129,43 @@ experiences:
         details: |
           Development of integral communication strategies underpinning the NGO's relationship with its member organizations and communities. Improved web positioning and planning of donation and membership campaigns to ensure sustainability. This NGO is positioned as the largest Iberoamerican network in the field of Alternative Education, providing information services inspired by the Wikipedia model, non-profit and using digital technologies based on agile models and open source software.
             
-      - role: Brand and business leader
+      - role: Business & Inbound Marketing Lead
         time: 2017 - 2018
-        company: <b>Estoy Contento Inbound Marketing</b>, Consulting. Bogotá (CO)
+        company: <b>Estoy Contento</b>, <a href="https://multiplica.com/">Multiplica,</a> Inbound Marketing Consultant (HubSpot Gold Partner). Bogotá (CO)
         details: |
-          Digital consulting and creation of <i>inbound marketing</i> plans, accompanying the execution and measurement of results. Clients: Bancolombia, Cemento Argos and Estoy Contento Inbound.
-            - And creation of the <i>Inbound Marketing</i> strategy to grow Bancolombia's SME customer base by 20% through digital channels.
-            - Creation of digital metrics reports for the digital account of cementos Argos.
-            - Digital content plan to position Estoy Contento Colombia by nurturing the database to facilitate the conversion of 10 <i>Qualified Leads</i>.
+          Led inbound marketing and digital growth programs for enterprise clients, including Bancolombia and Cementos Argos.
+          - Built and executed data-driven inbound strategies across content, SEO, automation, and analytics.
+          - Owned brand positioning and demand generation initiatives for the consulting firm’s own brand.
+          - Managed cross-functional teams and performance KPIs across acquisition and conversion funnels.
 
-      - role: Senior Executive Account
+      - role: Senior Account Executive – Marketing & Communications
         time: 2016 - 2017
         company: <b>Barbara & FrickBarbara</b>, Advertising Agency. Bogotá (CO)
         details: |
-          Management of communication projects in digital media, ATL and BTL. Aiming to achieve a differential positioning for brands, working with the digital, creative and design areas and with the media and production teams to increase the effectiveness of communication and meet the objectives.
-           - Clients: Central Cervecera with Miller Lite and Miller Genuine Draft an always on digital aligned to global brand guidelines.
-           - Tosti de Yupi with the campaign: <a href="https://www.youtube.com/watch?v=LBEVWFtICPQ">"I want to be a youtuber"</a> and its always on "Nada más nuestro".
-           - Fedemol with its <a href="https://www.youtube.com/watch?v=GdHn6C35wmY">ATL</a>, BTL and digital campaign for "Eat more bread".
-           - Design of the 2016 sustainability report for Fundación Grupo Social.
+          Led integrated communication projects across digital, ATL, and BTL channels, working closely with digital strategy, creative, design, media, and production teams to deliver differentiated brand positioning and meet communication objectives.
+          - Managed key accounts and campaigns for Central Cervecera, developing always-on digital strategies for Miller Lite and Miller Genuine Draft, aligned with global brand guidelines.
+          - Coordinated the Tosti (Yupi) campaign, including the digital activation <a href="https://www.youtube.com/watch?v=LBEVWFtICPQ">“Quiero ser un youtuber”</a> and the always-on strategy “Nada más nuestro.”
+          - Supported the execution of Fedemol’s ATL, BTL, and digital campaign <a href="https://www.youtube.com/watch?v=GdHn6C35wmY">“Come más pan”</a>, ensuring strategic consistency and communication effectiveness across channels.
+          - Designed the 2016 Sustainability Report for Fundación Grupo Social, integrating corporate communication principles and social responsibility messaging.
 
-      - role: Digital Account Executive
+      - role: Innovation & Digital Experience Consultant (Freelance)
         time: 2016
-        company: <b>Igloo Lab</b>, Advertising agency. Cali (CO)
+        company: <b><a href="https://igloolab.co/en/">Igloo Lab</a></b>, Experiential Marketing Projects. Cali (CO)
         details: |
-          Consulting in digital planning and events with technological experiences focused on pharmaceutical marketing (development of VR experiences, AR, kinect, Wii, holograms, sensors, etc) for the fulfillment of communication objectives. Clients: AstraZeneca, Legrand.
+          - Provided strategic consulting in digital planning and the design of technology-driven brand experiences for pharmaceutical and corporate marketing initiatives.
+          - Designed and implemented immersive experiences (VR, AR, holograms, interactive sensors, and gamification) aligned with communication, engagement, and brand recall objectives.
+          - Supported the full lifecycle of experiential projects, from concept development to execution and post-event evaluation.
+          - Key clients: AstraZeneca, Legrand.
 
-      - role: Social Media Manager
+      - role: Social Media & Digital Content Lead
         time: 2014-2016
-        company: <b>LEGIS Editores</b>, Publishing sector. Bogotá (CO)
+        company: <b><a href="https://www.legis.com.co/">LEGIS Editores</a></b>, Publishing sector. Bogotá (CO)
         details: |
-          Responsible for the content plan in social networks, with the objective of strengthening the community, increasing the positioning of the online store and conversions. Tracking metrics, implementation of guidelines, creation of the content grid for social networks (writing, design and production), <i>benchmark</i> of competitors in social media, event coverage, customer service through digital channels and maintenance of websites and <i>e-commerce</i>.
+          Led the social media and digital content strategy with a focus on community growth, brand positioning, and conversion for the company’s e-commerce platform.
+          - Designed and executed omnichannel editorial planning, overseeing content creation across copywriting, design, and production, aligned with commercial objectives.
+          - Implemented and optimized paid digital campaigns focused on traffic, lead generation, and sales, with continuous monitoring of metrics and KPIs.
+          - Conducted performance analysis, competitive benchmarking, event coverage, and digital community management.
+          - Supported the maintenance and optimization of websites and e-commerce platforms, contributing to improved user experience and conversion rates.
 
 projects:
     title: Projects
@@ -178,38 +193,36 @@ publications:
 
 
 skills:
-    title: Habilidades
+    title: Key skills
 
     toolset:
-      - name: Adobe Suite
-        level: 85%
-
-      - name: Wordpress
-        level: 85%
-
-      - name: Squarespace
+      - name: Design (Adobe Suite and Canva)
         level: 90%
 
-      - name: Microsoft Office
-        level: 95%
+      - name: Web & CMS (WordPress, Squarespace, Shopify)
+        level: 70%
 
-      - name: G Suite
-        level: 95%
+      - name: Analytics (GA4)
+        level: 75%
 
-      - name: Google Analytics
+      - name: Ads (Meta, G Ads, Hootsuite)
+        level: 75%
+
+      - name: Email & CRM (HubSpot, Mailchimp)
         level: 85%
 
-      - name: Hootsuite
-        level: 95%
+      - name: AI & automation
+        level: 55%
 
-      - name: Mailchimp
-        level: 95%
+      - name: Collaboration (G Workspace, Discord, Slack, ClickUp, GitHub)
+        level: 75%
 
-      - name: Meta Business Manager
-        level: 90%
+      - name: Barista
+        level: 35%
 
-      - name: Barista :)
-        level: 30%
+      - name: Astrology
+        level: 80%
+
 
 footer: >
-    Last updated: 23.03.2023
+    Last updated: 02.01.2026
