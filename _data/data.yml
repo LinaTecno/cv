@@ -201,7 +201,7 @@ skills:
       - name: Diseño (Adobe Suite y Canva)
         level: 90%
 
-      - name: Web, CMS (WordPress, Squarespace, Shopify)
+      - name: Web & CMS (WordPress, Squarespace, Shopify)
         level: 70%
 
       - name: Analítica (GA4)
@@ -213,8 +213,8 @@ skills:
       - name: Email & CRM (HubSpot, Mailchimp)
         level: 95%
 
-      - name: IA & automatización (ChatGPT, IA generativa)
-        level: 70%
+      - name: IA & automatización
+        level: 60%
 
       - name: Gestión & colaboración (G Workspace, Discord, Slack, ClickUp, GitHub)
         level: 75%
@@ -228,4 +228,4 @@ skills:
 
 
 footer: >
-    Última actualización: 23.03.2023
+    Última actualización: 02.01.2026
