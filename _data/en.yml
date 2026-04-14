@@ -46,7 +46,7 @@ sidebar:
     interests:
         title: Interests
         info:
-          - item: Environment
+          - item: Art & Culture
             link:
 
           - item: Communication
@@ -170,8 +170,13 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: tecno.social
-        link: "https://tecno.social"
+    
+      - title: Won Birin Keren - We are all equal
+        link: "https://acuwombe.org"
+        tagline: "I designed and implemented Acuwombe’s communication strategy, which focused on positioning, visibility, and sustainability, connecting the project with key audiences, partners, and funding opportunities."
+
+      - title: Tecno Social 
+        link: "https://tecnosocial.org"
         tagline: "I am one of the founding members of this communication and technology cooperative, where a group of friends join experiences and ideals to work collaboratively supporting social organizations, local businesses, cooperatives and NGOs to develop their projects in digital media."
 
       - title: Astrología Social
