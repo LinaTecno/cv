@@ -1,0 +1,186 @@
+sidebar:
+    about: True
+    education: False
+
+    name: Lina Contreras
+    description: My updated professional resume. You can view it online, download it, or print it.
+    tagline: Communications & Project Manager | Data-informed Strategy, Content & Regional Coordination
+
+    avatar: profile.png
+
+    born: June 10, 1983
+    citizenship: Colombia / Turkey
+
+    website: lina.tecnosocial.org
+    email: lina@tecnosocial.org
+    phone: +573115405778
+    timezone:
+    linkedin: linamarca
+    github: linatecno
+    telegram: linamarca
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Spanish
+          level: Native
+
+        - idiom: English
+          level: Intermediate (professional working proficiency)
+
+    interests:
+      title: Interests
+      info:
+        - item: Culture
+        - item: Communication
+        - item: Territory & sustainability
+        - item: Art
+        - item: Astrology
+
+    about:
+      title: Print my CV
+      link: Print or save as PDF
+
+
+career-profile:
+    title: Professional Profile
+    summary: |
+        Hi, I’m Lina. I’m a communications and marketing professional with 10+ years of experience leading projects, coordinating cross-functional teams, and managing digital and content strategies across Latin America.
+
+        Throughout my career, I have worked closely with performance metrics, reporting, and data analysis, using data to evaluate results, optimize strategies, and support decision-making across different initiatives.
+
+        I am particularly strong in structuring processes, organizing complex workflows, and managing multiple priorities, ensuring consistency, accuracy, and alignment between strategy and execution. In recent years, I have focused on projects with social and territorial impact, connecting communication, operations, and purpose.
+
+education:
+    title: Education
+    info:
+      - degree: Master’s Degree in Strategic Marketing Management
+        university: Politécnico Grancolombiano (Colombia)
+        time: 2015 - 2018
+
+      - degree: Bachelor’s Degree in Advertising
+        university: Universidad Central (Colombia)
+        time: 2005 - 2009
+
+courses:
+    title: Courses & Certifications
+    info:
+      - degree: Project Management Certification (PMI & SCRUM)
+        university: Universidad CAFAM (Colombia)
+        time: 2023
+
+experiences:
+    title: Experience
+    info:
+
+      - role: Communication & Content Strategist (Freelance)
+        time: 2023 - Present
+        company: <b>Independent Projects LATAM</b>
+        details: |
+            - Manage multiple projects simultaneously, defining priorities, deliverables, and workflows.
+            - Develop communication and content strategies aligned with organizational goals.
+            - Work on social and territorial impact initiatives, structuring communication processes from early stages.
+            - Support organizations in organizing information and building narratives for visibility and sustainability.
+
+      - role: Head of Marketing & Communications
+        time: 2018 - 2023
+        company: <b>Grupo Sitt & Cía</b>, Bogotá (Colombia)
+        details: |
+          - Led the structuring and management of the Marketing & Communications area across multiple business units.
+          - Coordinated multiple concurrent projects, managing timelines, priorities, and deliverables.
+          - Monitored performance metrics (traffic, engagement, conversion), using data to evaluate effectiveness and optimize strategies.
+          - Developed reporting practices to improve visibility and support decision-making.
+          - Coordinated cross-functional teams, ensuring alignment between strategy and execution.
+          - Translated complex technical and regulatory information into clear and structured formats.
+          - Strengthened internal processes, improving coordination and team alignment.
+
+      - role: Communications & Content Coordinator (Freelance)
+        time: 2019 - 2023
+        company: <b>REEVO</b>, International NGO
+        details: |
+          - Coordinated communication processes across distributed teams and communities.
+          - Supported positioning and sustainability strategies through membership and donation campaigns.
+          - Organized content and workflows to improve consistency and clarity across channels.
+
+      - role: Business & Inbound Marketing Lead
+        time: 2017 - 2018
+        company: <b>Contento / Multiplica</b>
+        details: |
+          - Designed and implemented inbound marketing strategies supported by data.
+          - Tracked KPIs (acquisition, conversion, engagement) to evaluate and improve performance.
+          - Built reporting structures to support monitoring and decision-making.
+          - Coordinated multidisciplinary teams aligning strategy, execution, and results.
+
+      - role: Senior Account Executive – Marketing & Communications
+        time: 2016 - 2017
+        company: <b>Barbara & Frick</b>
+        details: |
+          - Managed integrated communication projects across digital, ATL, and BTL channels.
+          - Coordinated cross-functional teams (strategy, creative, media, production).
+          - Managed timelines, deliverables, and client relationships.
+          - Ensured consistency between strategic direction and execution.
+
+      - role: Innovation & Digital Experience Consultant
+        time: 2016
+        company: <b>Igloo Lab</b>
+        details: |
+          - Led digital experience projects from concept to execution.
+          - Managed timelines, deliverables, and stakeholder relationships.
+          - Designed engagement-driven experiences aligned with communication goals.
+
+      - role: Social Media & Digital Content Lead
+        time: 2014 - 2016
+        company: <b>LEGIS Editores</b>
+        details: |
+          - Led content and social media strategy with a focus on performance.
+          - Monitored metrics and user behavior to optimize results.
+          - Planned and executed content aligned with business objectives.
+          - Supported website and e-commerce optimization.
+
+projects:
+    title: Projects
+    assignments:
+
+      - title: Won Birin Keren - Acuwombe
+        link: "https://acuwombe.org"
+        tagline: "Designed a communication strategy to support visibility, positioning, and long-term sustainability, aligning narrative, audiences, and funding opportunities."
+
+      - title: tecnosocial.org
+        link: "https://tecnosocial.org"
+        tagline: "Co-founder of a communication and technology cooperative supporting social organizations and impact-driven projects."
+
+      - title: Proyecto Florecer
+        link: "https://proyectoflorecer.org/"
+        tagline: "Developed a digital communication strategy to strengthen outreach, visibility, and sustainability."
+
+      - title: Astrología Social
+        link: "https://astrologiasocial.org"
+        tagline: "Personal project focused on content creation and self-awareness."
+
+skills:
+    title: Key Skills
+
+    toolset:
+      - name: Project Management & Collaboration (ClickUp, Slack, Notion, Google Workspace)
+        level: 80%
+
+      - name: Analytics & Reporting (GA4, digital metrics)
+        level: 75%
+
+      - name: CRM & Automation (HubSpot, Mailchimp)
+        level: 85%
+
+      - name: Web & CMS (WordPress, Squarespace)
+        level: 70%
+
+      - name: Social Media & Paid Media
+        level: 70%
+
+      - name: AI & Automation
+        level: 60%
+
+      - name: Design (Adobe, Canva)
+        level: 80%
+
+footer: >
+    Last updated: 2026
