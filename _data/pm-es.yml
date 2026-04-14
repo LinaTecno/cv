@@ -1,0 +1,187 @@
+sidebar:
+    about: True
+    education: False
+
+    name: Lina Contreras
+    description: Mi curriculum profesional actualizado, puedes verlo en la pantalla, descargarlo o imprimirlo.
+    tagline: Communications & Project Manager | Data-informed Strategy, Content & Regional Coordination
+
+    avatar: profile.png
+
+    born: 10 de Junio de 1983
+    citizenship: Colombia / Turquía
+
+    website: lina.tecnosocial.org
+    email: lina@tecnosocial.org
+    phone: +573115405778
+    timezone:
+    linkedin: linamarca
+    github: linatecno
+    telegram: linamarca
+
+    languages:
+      title: Idiomas
+      info:
+        - idiom: Español
+          level: Nativo
+          link: #
+
+        - idiom: Inglés
+          level: Intermedio (uso profesional)
+          link: /en
+
+    interests:
+      title: Intereses
+      info:
+        - item: Cultura
+        - item: Comunicación
+        - item: Territorio y sostenibilidad
+        - item: Arte
+        - item: Astrología
+
+    about:
+      title: Imprimir mi CV
+      link: Imprimir o guardar como PDF
+
+
+career-profile:
+    title: Perfil profesional
+    summary: |
+        ¡Hola!, soy Lina. Profesional en comunicación y marketing con más de 15 años de experiencia liderando proyectos, coordinando equipos multidisciplinarios y gestionando estrategias digitales y de contenido en América Latina.
+
+        A lo largo de mi trayectoria he trabajado de manera cercana con métricas, análisis de desempeño y reporting, utilizando datos para evaluar resultados, optimizar estrategias y apoyar la toma de decisiones en diferentes áreas de negocio.
+
+        Me destaco por estructurar procesos, organizar flujos de trabajo complejos y gestionar múltiples prioridades, asegurando consistencia, cumplimiento y alineación entre equipos, objetivos y ejecución. En los últimos años he enfocado mi trabajo en proyectos con impacto social y territorial, conectando comunicación, operación y propósito.
+
+education:
+    title: Educación
+    info:
+      - degree: Magíster en Gerencia Estratégica de Mercadeo
+        university: Politécnico Grancolombiano (CO)
+        time: 2015 - 2018
+
+      - degree: Publicista
+        university: Universidad Central (CO)
+        time: 2005 - 2009
+
+courses:
+    title: Cursos y especializaciones
+    info:
+      - degree: Diplomado "Gerencia y Programación de Proyectos PMI y SCRUM"
+        university: Universidad CAFAM (CO)
+        time: 2023
+
+experiences:
+    title: Experiencia
+    info:
+
+      - role: Communication & Content Strategist (Freelance)
+        time: 2023 - Actualidad
+        company: <b>Proyectos independientes LATAM</b>
+        details: |
+            - Gestión simultánea de múltiples proyectos, definiendo prioridades, entregables y flujos de trabajo.
+            - Desarrollo de estrategias de comunicación y contenido alineadas con objetivos organizacionales.
+            - Trabajo en iniciativas de impacto social y territorial, estructurando procesos de comunicación desde etapas tempranas.
+            - Acompañamiento en organización de información y construcción de narrativas para visibilidad y sostenibilidad de proyectos.
+
+      - role: Jefe de Mercadeo y Comunicaciones
+        time: 2018 - 2023
+        company: <b>Grupo Sitt y Cía</b>, Bogotá (CO)
+        details: |
+          - Lideré la estructuración y gestión del área de Mercadeo y Comunicaciones para múltiples unidades de negocio.
+          - Coordiné proyectos simultáneos, definiendo prioridades, cronogramas y entregables entre equipos.
+          - Implementé seguimiento de métricas (tráfico, engagement, conversión), utilizando datos para evaluar desempeño y optimizar estrategias.
+          - Desarrollé prácticas de reporting para mejorar la visibilidad de resultados y apoyar la toma de decisiones.
+          - Coordiné equipos multidisciplinarios asegurando alineación entre objetivos estratégicos y ejecución.
+          - Traducí información técnica y normativa en contenidos estructurados y herramientas de comunicación interna.
+          - Fortalecí procesos internos, mejorando la coordinación y participación entre áreas.
+
+      - role: Coordinadora de Comunicación y Contenidos (Freelancer)
+        time: 2019 - 2023
+        company: <b>REEVO</b>, ONG internacional
+        details: |
+          - Coordiné procesos de comunicación entre equipos y comunidades en distintos países.
+          - Apoyé estrategias de posicionamiento y sostenibilidad mediante campañas de membresía y donaciones.
+          - Organicé contenidos, flujos de información y planificación editorial para mejorar la consistencia comunicacional.
+
+      - role: Business & Inbound Marketing Lead 
+        time: 2017 - 2018
+        company: <b>Contento / Multiplica</b>
+        details: |
+          - Diseñé e implementé estrategias de inbound marketing basadas en datos.
+          - Monitoreé KPIs de adquisición, conversión y engagement para optimizar resultados.
+          - Construí reportes de desempeño para seguimiento y toma de decisiones.
+          - Coordiné equipos multidisciplinarios alineando estrategia, ejecución y resultados.
+
+      - role: Senior Account Executive – Marketing & Communications
+        time: 2016 - 2017
+        company: <b>Barbara & Frick</b>
+        details: |
+          - Gestioné proyectos de comunicación integrada coordinando equipos de estrategia, creatividad, medios y producción.
+          - Administré cronogramas, entregables y relación con clientes.
+          - Aseguré coherencia entre estrategia y ejecución en múltiples campañas simultáneas.
+
+      - role: Innovation & Digital Experience Consultant
+        time: 2016
+        company: <b>Igloo Lab</b>
+        details: |
+          - Coordiné proyectos de experiencias digitales desde la conceptualización hasta la ejecución.
+          - Gestioné tiempos, entregables y relación con stakeholders.
+          - Diseñé experiencias alineadas con objetivos de comunicación y engagement.
+
+      - role: Social Media & Digital Content Lead
+        time: 2014-2016
+        company: <b>LEGIS Editores</b>
+        details: |
+          - Lideré la estrategia de contenidos y redes sociales con enfoque en desempeño.
+          - Monitoreé métricas y comportamiento de usuarios para optimizar resultados.
+          - Planifiqué y ejecuté contenido alineado con objetivos comerciales.
+          - Apoyé la optimización de plataformas digitales y e-commerce.
+
+projects:
+    title: Proyectos
+    assignments:
+
+      - title: Won Birin Keren - Acuwombe
+        link: "https://acuwombe.org"
+        tagline: "Estructuración de estrategia de comunicación para visibilidad, posicionamiento y sostenibilidad del proyecto, alineando narrativa, audiencias y oportunidades de financiamiento."
+
+      - title: tecnosocial.org
+        link: "https://tecnosocial.org"
+        tagline: "Co-fundadora de cooperativa de comunicación y tecnología enfocada en apoyar organizaciones sociales y proyectos de impacto."
+
+      - title: Proyecto Florecer
+        link: "https://proyectoflorecer.org/"
+        tagline: "Diseño de estrategia digital para fortalecer comunicación, alcance y sostenibilidad de la organización."
+
+      - title: Astrología Social
+        link: "https://astrologiasocial.org"
+        tagline: "Proyecto personal de contenido enfocado en autoconocimiento y divulgación."
+
+skills:
+    title: Habilidades Clave
+
+    toolset:
+      - name: Gestión de proyectos & colaboración (ClickUp, Slack, Notion, G Workspace)
+        level: 80%
+
+      - name: Analítica & medición (GA4, métricas digitales, reporting)
+        level: 75%
+
+      - name: CRM & automatización (HubSpot, Mailchimp)
+        level: 85%
+
+      - name: Web & CMS (WordPress, Squarespace)
+        level: 70%
+
+      - name: Social & pauta digital
+        level: 70%
+
+      - name: IA & automatización
+        level: 60%
+
+      - name: Diseño (Adobe, Canva)
+        level: 80%
+
+footer: >
+    Última actualización: 2026
