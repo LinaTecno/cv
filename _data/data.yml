@@ -47,7 +47,7 @@ sidebar:
     interests:
       title: Intereses
       info:
-        - item: Medio Ambiente
+        - item: Cultura
           link:
 
         - item: Comunicación
@@ -56,7 +56,7 @@ sidebar:
         - item: Fotografía
           link:
 
-        - item: Dibujo
+        - item: Arte
           link:
 
         - item: Astrología
@@ -172,8 +172,12 @@ projects:
     title: Proyectos
     assignments:
 
-      - title: tecno.social
-        link: "https://tecno.social"
+      - title: Won Birin Keren - Todos Somos Iguales
+        link: "https://acuwombe.org"
+        tagline: "Diseño e implemento la estrategia de comunicación de Acuwombe, enfocada en posicionamiento, visibilidad y sostenibilidad, conectando el proyecto con audiencias clave, aliados y oportunidades de financiamiento."
+
+      - title: tecnosocial.org
+        link: "https://tecnosocial.org"
         tagline: "Soy una de las socias fundadoras de esta cooperativa de comunicación y tecnología, donde un grupos de amigxs unimos experiencias e ideales para trabajar de forma colaborativa apoyando a organizaciones sociales, empresas locales, cooperativas y ONGs a desarrollar sus proyectos en medios digitales."
 
       - title: Astrología Social
