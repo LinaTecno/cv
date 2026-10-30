@@ -1,233 +1,195 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: True
+    education: False
 
-    # Profile information
     name: Lina Contreras
-    description: My updated professional resume, you can view it on the screen, download it or print it.
-    tagline: Senior Marketing & Communications Strategist | Content, Brand & Purpose-driven Growth
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    description: My updated professional resume. You can view it online, download it, or print it.
+    tagline: Communications & Project Manager | Data-informed Strategy, Content & Regional Coordination
 
-    # Sidebar links
-    born: 10 June 1983
+    avatar: profile.png
+
+    born: June 10, 1983
     citizenship: Colombia / Turkey
 
-    website: lina.tecnosocial.org/en
+    website: lina.tecnosocial.org
     email: lina@tecnosocial.org
     phone: +573115405778
     timezone:
-    # website: blog.webjeda.com #do not add http://
     linkedin: linamarca
     github: linatecno
     telegram: linamarca
-    gitlab:
-    bitbucket:
-    # twitter: '@LinaAni'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
 
     languages:
-        title: Languages
-        info:
-          - idiom: Spanish
-            level: Native
-            link: /
+      title: Languages
+      info:
+        - idiom: Spanish
+          level: Native
 
-          - idiom: English
-            level: Intermediate
-            link: #
+        - idiom: English
+          level: Intermediate (professional working proficiency)
 
     interests:
-        title: Interests
-        info:
-          - item: Art & Culture
-            link:
-
-          - item: Communication
-            link:
-
-          - item: Photography
-            link:
-
-          - item: Drawing
-            link:
-
-          - item: Astrology
-            link:
+      title: Interests
+      info:
+        - item: Culture
+        - item: Communication
+        - item: Territory & sustainability
+        - item: Art
+        - item: Astrology
 
     about:
       title: Print my CV
-      link: Print it or download it as PDF
+      link: Print or save as PDF
+
 
 career-profile:
-    title: Career Profile
+    title: Professional Profile
     summary: |
-        Hi, I'm Lina. <i>Senior marketing and communications strategist</i>, with over 15 years of experience leading comprehensive brand, content, and digital positioning plans in corporate sectors, agencies, NGOs, and social impact ventures. Specialist in omnichannel content strategy, branding, inbound marketing, analytics, and community building. Career combining strategic vision, creative execution, and measurable results, with a strong focus on projects with social, environmental, and territorial development impact.
+        Hi, I’m Lina. I’m a communications and marketing professional with 10+ years of experience leading projects, coordinating cross-functional teams, and managing digital and content strategies across Latin America.
+
+        Throughout my career, I have worked closely with performance metrics, reporting, and data analysis, using data to evaluate results, optimize strategies, and support decision-making across different initiatives.
+
+        I am particularly strong in structuring processes, organizing complex workflows, and managing multiple priorities, ensuring consistency, accuracy, and alignment between strategy and execution. In recent years, I have focused on projects with social and territorial impact, connecting communication, operations, and purpose.
 
 education:
     title: Education
     info:
-      - degree: Master's degree in Strategic Marketing Management
-        university: Politécnico Grancolombiano (CO)
+      - degree: Master’s Degree in Strategic Marketing Management
+        university: Politécnico Grancolombiano (Colombia)
         time: 2015 - 2018
-        details: |
-          The graduate degree focuses the profiles to work as a high level manager or consultant because it develops skills to plan, direct and evaluate strategic marketing processes related to brand management, service management, consumer experience or social marketing actions.
-            - Graduated with the academic work <i>"Expectations of use of Facebook fan page: components and implications"</i> that represented the Politécnico Grancolombiano in the III International Meeting of professors in marketing of the UNAM (see in publications).
-      - degree: Publicist
-        university: Universidad Central (CO)
+
+      - degree: Bachelor’s Degree in Advertising
+        university: Universidad Central (Colombia)
         time: 2005 - 2009
-        details: |
-          This training is focused on a creative profile, analyst or strategist in the ideation of campaigns, with extensive knowledge in digital tools for the creation and management of communication strategies that have allowed me to develop in the fields of advertising, digital marketing and related areas.
-            - Obtained a half scholarship for 3 years for academic performance.
-            - Graduate work with a grade of 4.9 for the creation of the digital communication strategy for the university community called "Conexión central".
 
 courses:
-    title: Courses and specializations
+    title: Courses & Certifications
     info:
-      - degree: Diploma in Project Management and Programming PMI and SCRUM.
-        university: Universidad CAFAM (CO)
+      - degree: Project Management Certification (PMI & SCRUM)
+        university: Universidad CAFAM (Colombia)
         time: 2023
-        details: |
-          Knowledge in various stages of project management within the framework of the PMI philosophy and others.
-
 
 experiences:
     title: Experience
     info:
-    
-      - role: Communication & Content Strategist (Freelance)
+
+      - role: Growth Marketing & Strategy Director
+        time: 2023 - Today
+        company: <b>Tecnosocial Project</b>
+        details: |
+            - Omnichannel Strategy: The ability to design roadmaps that align business objectives (commercial or social) with the appropriate digital channels.
+            - Hands-on execution: Proficiency in digital marketing tools, web analytics, automation, and agile methodologies to ensure that the strategy does not remain merely on paper.
+            - Sectoral Sensitivity: The ability to pivot between the return on investment (ROI) language of the private sector and the language of social impact or community mobilization used by non-profit organizations.
+            - Featured projects: The Acervus Project, Won Birin Keren, Coco Salvaje, OPIAC. 
+
+      - role: Communication & Content Strategist Consultant
         time: 2025
-        company: <b><a href="https://www.cocosalvaje.com/">Coco Salvaje</a></b>, Natural products, local development. Moñitos (CO)
+        company: <b>Coco salvaje</b>
         details: |
-          - Led the strategic content repositioning for H2 2025, establishing a new narrative framework aligned with sustainability and local economic development.
-          - Defined editorial pillars and a content roadmap focused on community-driven storytelling and social impact.
-          - Positioned the brand as an enabler of economic opportunity in underserved regions with limited industrial infrastructure.
-          
-      - role: Head of Marketing and Communications
+            - Led the strategic content repositioning for H2 2025, establishing a new narrative framework aligned with sustainability and local economic development.
+            - Desarrollé pilares editoriales alineados con comercio local, sostenibilidad y activación económica territorial.
+            - Defined editorial pillars and a content roadmap focused on community-driven storytelling and social impact.
+            - Positioned the brand as an enabler of economic opportunity in underserved regions with limited industrial infrastructure.
+
+      - role: Head of Marketing & Communications
         time: 2018 - 2023
-        company: <b>Grupo Sitt y cia</b>, Civil engineering, traffic, and transportation sector. Bogotá (CO)
+        company: <b>Grupo Sitt & Cía</b>, Bogotá (Colombia)
         details: |
-         Led the marketing and communications strategy for <a href="https://www.sittycia.com/">Sitt & Cía</a> and its group companies (<a href="https://www.pivingenieria.com/">PIV Ingeniería</a>, <a href="https://www.servitrans.co/">Servitrans</a>, and <a href="https://www.akencapital.com/">Aken Capital</a>), strengthening brand positioning, service visibility, and demand generation across public and private sector audiences within government, engineering, mobility, construction, and investment ecosystems..
-         - Built and scaled the group’s Marketing & Communications function, integrating branding, content strategy, SEO, and institutional communications.
-         - Designed and executed a content marketing and SEO strategy that delivered sustained organic web traffic growth of ~10% year over year and top search rankings for strategic keywords such as electronic detection, what is SIMIT, and road safety plan.
-         - Drove audience acquisition through digital events, industry sponsorships, and participation as speakers in sector-specific forums.
-         - Led email marketing and database segmentation initiatives, incorporating data analysis and Python scripting to improve targeting and performance.
-         - Oversaw the digital presence and social media strategy across all group companies, ensuring brand consistency and alignment.
-         - Supported Corporate Social Responsibility initiatives by raising visibility around <a href="https://www.youtube.com/watch?v=haroBBqaxTc">“Road Traffic Disability”</a>, and directing the writing and art direction of sustainability reports.
-         - Designed and implemented the internal communications strategy, driving cultural change and increasing internal engagement by 20%.
-         - Delivered digital marketing training for strategic partners, including the British Chamber of Commerce (Britcham).
-            
-      - role: Communication and Content Coordinator
+          - Led the structuring and management of the Marketing & Communications area across multiple business units.
+          - Coordinated multiple concurrent projects, managing timelines, priorities, and deliverables.
+          - Monitored performance metrics (traffic, engagement, conversion), using data to evaluate effectiveness and optimize strategies.
+          - Developed reporting practices to improve visibility and support decision-making.
+          - Coordinated cross-functional teams, ensuring alignment between strategy and execution.
+          - Translated complex technical and regulatory information into clear and structured formats.
+          - Strengthened internal processes, improving coordination and team alignment.
+
+      - role: Communications & Content Coordinator (Freelance)
         time: 2019 - 2023
-        company: <b>REEVO, Alternative Education Network</b>, International NGO
+        company: <b>REEVO</b>, International NGO
         details: |
-          Development of integral communication strategies underpinning the NGO's relationship with its member organizations and communities. Improved web positioning and planning of donation and membership campaigns to ensure sustainability. This NGO is positioned as the largest Iberoamerican network in the field of Alternative Education, providing information services inspired by the Wikipedia model, non-profit and using digital technologies based on agile models and open source software.
-            
+          - Coordinated communication processes across distributed teams and communities.
+          - Supported positioning and sustainability strategies through membership and donation campaigns.
+          - Organized content and workflows to improve consistency and clarity across channels.
+
       - role: Business & Inbound Marketing Lead
         time: 2017 - 2018
-        company: <b>Estoy Contento</b>, <a href="https://multiplica.com/">Multiplica,</a> Inbound Marketing Consultant (HubSpot Gold Partner). Bogotá (CO)
+        company: <b>Contento / Multiplica</b>
         details: |
-          Led inbound marketing and digital growth programs for enterprise clients, including Bancolombia and Cementos Argos.
-          - Built and executed data-driven inbound strategies across content, SEO, automation, and analytics.
-          - Owned brand positioning and demand generation initiatives for the consulting firm’s own brand.
-          - Managed cross-functional teams and performance KPIs across acquisition and conversion funnels.
+          - Designed and implemented inbound marketing strategies supported by data.
+          - Tracked KPIs (acquisition, conversion, engagement) to evaluate and improve performance.
+          - Built reporting structures to support monitoring and decision-making.
+          - Coordinated multidisciplinary teams aligning strategy, execution, and results.
 
       - role: Senior Account Executive – Marketing & Communications
         time: 2016 - 2017
-        company: <b>Barbara & FrickBarbara</b>, Advertising Agency. Bogotá (CO)
+        company: <b>Barbara & Frick</b>
         details: |
-          Led integrated communication projects across digital, ATL, and BTL channels, working closely with digital strategy, creative, design, media, and production teams to deliver differentiated brand positioning and meet communication objectives.
-          - Managed key accounts and campaigns for Central Cervecera, developing always-on digital strategies for Miller Lite and Miller Genuine Draft, aligned with global brand guidelines.
-          - Coordinated the Tosti (Yupi) campaign, including the digital activation <a href="https://www.youtube.com/watch?v=LBEVWFtICPQ">“Quiero ser un youtuber”</a> and the always-on strategy “Nada más nuestro.”
-          - Supported the execution of Fedemol’s ATL, BTL, and digital campaign <a href="https://www.youtube.com/watch?v=GdHn6C35wmY">“Come más pan”</a>, ensuring strategic consistency and communication effectiveness across channels.
-          - Designed the 2016 Sustainability Report for Fundación Grupo Social, integrating corporate communication principles and social responsibility messaging.
+          - Managed integrated communication projects across digital, ATL, and BTL channels.
+          - Coordinated cross-functional teams (strategy, creative, media, production).
+          - Managed timelines, deliverables, and client relationships.
+          - Ensured consistency between strategic direction and execution.
 
-      - role: Innovation & Digital Experience Consultant (Freelance)
+      - role: Innovation & Digital Experience Consultant
         time: 2016
-        company: <b><a href="https://igloolab.co/en/">Igloo Lab</a></b>, Experiential Marketing Projects. Cali (CO)
+        company: <b>Igloo Lab</b>
         details: |
-          - Provided strategic consulting in digital planning and the design of technology-driven brand experiences for pharmaceutical and corporate marketing initiatives.
-          - Designed and implemented immersive experiences (VR, AR, holograms, interactive sensors, and gamification) aligned with communication, engagement, and brand recall objectives.
-          - Supported the full lifecycle of experiential projects, from concept development to execution and post-event evaluation.
-          - Key clients: AstraZeneca, Legrand.
+          - Led digital experience projects from concept to execution.
+          - Managed timelines, deliverables, and stakeholder relationships.
+          - Designed engagement-driven experiences aligned with communication goals.
 
       - role: Social Media & Digital Content Lead
-        time: 2014-2016
-        company: <b><a href="https://www.legis.com.co/">LEGIS Editores</a></b>, Publishing sector. Bogotá (CO)
+        time: 2014 - 2016
+        company: <b>LEGIS Editores</b>
         details: |
-          Led the social media and digital content strategy with a focus on community growth, brand positioning, and conversion for the company’s e-commerce platform.
-          - Designed and executed omnichannel editorial planning, overseeing content creation across copywriting, design, and production, aligned with commercial objectives.
-          - Implemented and optimized paid digital campaigns focused on traffic, lead generation, and sales, with continuous monitoring of metrics and KPIs.
-          - Conducted performance analysis, competitive benchmarking, event coverage, and digital community management.
-          - Supported the maintenance and optimization of websites and e-commerce platforms, contributing to improved user experience and conversion rates.
+          - Led content and social media strategy with a focus on performance.
+          - Monitored metrics and user behavior to optimize results.
+          - Planned and executed content aligned with business objectives.
+          - Supported website and e-commerce optimization.
 
 projects:
     title: Projects
     assignments:
-    
-      - title: Won Birin Keren - We are all equal
-        link: "https://acuwombe.org"
-        tagline: "I designed and implemented Acuwombe’s communication strategy, which focused on positioning, visibility, and sustainability, connecting the project with key audiences, partners, and funding opportunities."
 
-      - title: Tecno Social 
+      - title: Won Birin Keren - Acuwombe
+        link: "https://acuwombe.org"
+        tagline: "Designed a communication strategy to support visibility, positioning, and long-term sustainability, aligning narrative, audiences, and funding opportunities."
+
+      - title: tecnosocial.org
         link: "https://tecnosocial.org"
-        tagline: "I am one of the founding members of this communication and technology cooperative, where a group of friends join experiences and ideals to work collaboratively supporting social organizations, local businesses, cooperatives and NGOs to develop their projects in digital media."
+        tagline: "Co-founder of a communication and technology cooperative supporting social organizations and impact-driven projects."
+
+      - title: Proyecto Florecer
+        link: "https://proyectoflorecer.org/"
+        tagline: "Developed a digital communication strategy to strengthen outreach, visibility, and sustainability."
 
       - title: Astrología Social
         link: "https://astrologiasocial.org"
-        tagline: "I am passionate about astrology and other related techniques for self-knowledge. With this new project I seek to provide tools for its understanding and dissemination."
-
-      - title: Flourish Project
-        link: "https://proyectoflorecer.org/?lang=en"
-        tagline: "I created a digital communication strategy to meet the objectives of this Colombian NGO dedicated to the promotion of women's rights, community empowerment and the promotion of educational opportunities for their families."
-
-
-publications:
-    title: Publications
-    papers:
-      - title: Facebook fan page usage expectations, components and implications.
-        link: "https://evo.re/lina1"
-        authors: Lina Margarita Contreras Quintero, Claudia Giobanna Nova Villarraga and Leonardo Ortegón-Cortázar
-        conference: Marketing strategies in specific markets. Autonomous University of Mexico, 2020
-
+        tagline: "Personal project focused on content creation and self-awareness."
 
 skills:
-    title: Key skills
+    title: Key Skills
 
     toolset:
-      - name: Design (Adobe Suite and Canva)
-        level: 90%
-
-      - name: Web & CMS (WordPress, Squarespace, Shopify)
-        level: 70%
-
-      - name: Analytics (GA4)
-        level: 75%
-
-      - name: Ads (Meta, G Ads, Hootsuite)
-        level: 75%
-
-      - name: Email & CRM (HubSpot, Mailchimp)
-        level: 85%
-
-      - name: AI & automation
-        level: 55%
-
-      - name: Collaboration (G Workspace, Discord, Slack, ClickUp, GitHub)
-        level: 75%
-
-      - name: Barista
-        level: 35%
-
-      - name: Astrology
+      - name: Project Management & Collaboration (ClickUp, Slack, Notion, Google Workspace)
         level: 80%
 
+      - name: Analytics & Reporting (GA4, digital metrics)
+        level: 75%
+
+      - name: CRM & Automation (HubSpot, Mailchimp)
+        level: 85%
+
+      - name: Web & CMS (WordPress, Squarespace)
+        level: 70%
+
+      - name: Social Media & Paid Media
+        level: 70%
+
+      - name: AI & Automation
+        level: 60%
+
+      - name: Design (Adobe, Canva)
+        level: 80%
 
 footer: >
-    Last updated: 02.01.2026
+    Last updated: 2026
