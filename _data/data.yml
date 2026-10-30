@@ -1,19 +1,13 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: True
+    education: False
 
-    # Profile information
     name: Lina Contreras
     description: Mi curriculum profesional actualizado, puedes verlo en la pantalla, descargarlo o imprimirlo.
-    tagline: Senior Marketing & Communications Strategist | Content, Brand & Purpose-driven Growth
+    tagline: Communications & Project Manager | Data-informed Strategy, Content & Regional Coordination
 
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png
 
-    # Sidebar links
     born: 10 de Junio de 1983
     citizenship: Colombia / Turquía
 
@@ -21,17 +15,9 @@ sidebar:
     email: lina@tecnosocial.org
     phone: +573115405778
     timezone:
-    # website: blog.webjeda.com #do not add http://
     linkedin: linamarca
     github: linatecno
     telegram: linamarca
-    gitlab:
-    bitbucket:
-    # twitter: '@LinaAni'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
 
     languages:
       title: Idiomas
@@ -41,26 +27,17 @@ sidebar:
           link: #
 
         - idiom: Inglés
-          level: Intermedio
+          level: Intermedio (uso profesional)
           link: /en
 
     interests:
       title: Intereses
       info:
         - item: Cultura
-          link:
-
         - item: Comunicación
-          link:
-
-        - item: Fotografía
-          link:
-
+        - item: Territorio y sostenibilidad
         - item: Arte
-          link:
-
         - item: Astrología
-          link:
 
     about:
       title: Imprimir mi CV
@@ -70,7 +47,11 @@ sidebar:
 career-profile:
     title: Perfil profesional
     summary: |
-        ¡Hola!, soy Lina. Estratega senior en marketing y comunicaciones con más de 15 años de experiencia liderando planes integrales de marca, contenidos y posicionamiento digital en sectores corporativos, agencias, ONG y emprendimientos de impacto social. Especialista en estrategia de contenidos omnicanal, branding, inbound marketing, analítica y construcción de comunidades. Trayectoria combinando visión estratégica, ejecución creativa y resultados medibles, con fuerte orientación a proyectos de impacto social, ambiental y desarrollo territorial.
+        ¡Hola!, soy Lina. Profesional en comunicación y marketing con más de 15 años de experiencia liderando proyectos, coordinando equipos multidisciplinarios y gestionando estrategias digitales y de contenido en América Latina.
+
+        A lo largo de mi trayectoria he trabajado de manera cercana con métricas, análisis de desempeño y reporting, utilizando datos para evaluar resultados, optimizar estrategias y apoyar la toma de decisiones en diferentes áreas de negocio.
+
+        Me destaco por estructurar procesos, organizar flujos de trabajo complejos y gestionar múltiples prioridades, asegurando consistencia, cumplimiento y alineación entre equipos, objetivos y ejecución. En los últimos años he enfocado mi trabajo en proyectos con impacto social y territorial, conectando comunicación, operación y propósito.
 
 education:
     title: Educación
@@ -78,158 +59,139 @@ education:
       - degree: Magíster en Gerencia Estratégica de Mercadeo
         university: Politécnico Grancolombiano (CO)
         time: 2015 - 2018
-        details: |
-          El posgrado enfoca los perfiles para desempeñarse como directivo de alto nivel gerencial o consultor debido a que se desarrollan habilidades para planear, dirigir y evaluar procesos estratégicos de mercadeo relacionados con la gestión de marca, la gerencia del servicio, la experiencia del consumidor o acciones de mercadeo social.
-            - Egresada con el trabajo académico <i>"Expectativas de uso de las Facebook fan page: componentes e implicaciones"</i> que representó al Politécnico Grancolombiano en el III Encuentro internacional de profesores en mercadotecnia de la UNAM (ver en publicaciones).
+
       - degree: Publicista
         university: Universidad Central (CO)
         time: 2005 - 2009
-        details: |
-          Esta formación está enfocada en un perfil creativo, analista o estratega en la ideación de campañas, con un amplio conocimiento en herramientas digitales para la creación y gestión de estrategias de comunicación que me han permitido desenvolverme en los campos de la publicidad, el marketing digital y áreas afines.
-            - Obtención de media beca económica durante 3 años por desempeño académico.
-            - Trabajo de grado con calificación 4.9 por la creación de la estrategia digital de comunicación para la comunidad universitaria llamada "Conexión central".
 
 courses:
     title: Cursos y especializaciones
     info:
-      - degree: Diplomado "Gerencia y Programación de Proyectos PMI y SCRUM".
+      - degree: Diplomado "Gerencia y Programación de Proyectos PMI y SCRUM"
         university: Universidad CAFAM (CO)
         time: 2023
-        details: |
 
 experiences:
     title: Experiencia
     info:
-      - role: Communication & Content Strategist (Freelance)
-        time: 2025
-        company: <b>Coco Salvaje</b>, Productos naturales, comercio local. Moñitos (CO)
+
+      - role: Growth Marketing & Strategy Director
+        time: 2023 - Actualidad
+        company: <b>Proyecto Tecnosocial</b>
         details: |
-            - Diseñé el plan estratégico de contenidos para el segundo semestre de 2025, redefiniendo el posicionamiento narrativo y creativo de la marca. <a href="https://www.cocosalvaje.com/">Coco Salvaje</a>
+            - Estrategia Omnicanal: Capacidad de diseñar mapas de ruta que alineen los objetivos de negocio (comerciales o sociales) con los canales digitales adecuados.
+            - Ejecución "Hands-on": Dominio de herramientas de marketing digital, analítica web, automatización y metodologías ágiles para asegurar que la estrategia no se quede en el papel.
+            - Sensibilidad Sectorial: Capacidad de pivotar entre el lenguaje de retorno de inversión (ROI) del sector privado y el lenguaje de impacto social o movilización de comunidades de las organizaciones sin fines de lucro.
+            Proyectos destacados: The Acervus Project, Won Birin Keren, Coco Salvaje, OPIAC, 
+
+      - role: Communication & Content Strategist Consultant
+        time: 2025
+        company: <b>Coco salvaje</b>
+        details: |
+            - Diseñé el plan estratégico de contenidos para el segundo semestre de 2025, redefiniendo el posicionamiento narrativo y creativo de la marca. Coco Salvaje
             - Desarrollé pilares editoriales alineados con comercio local, sostenibilidad y activación económica territorial.
             - Construí un roadmap de contenidos enfocado en comunidad, autenticidad y valor social, abriendo un nuevo camino creativo para la marca.
             - Fortalecí la percepción de marca como motor de oportunidades económicas en una zona del país con altos índices de pobreza y baja presencia industrial.
             - Planificación con IA y automatización de campañas.
-            
+
       - role: Jefe de Mercadeo y Comunicaciones
         time: 2018 - 2023
-        company: <b>Grupo Sitt y cia</b>, sector de ingeniería civil, tránsito y transporte. Bogotá (CO)
+        company: <b>Grupo Sitt y Cía</b>, Bogotá (CO)
         details: |
-          Lideré la estrategia de marketing y comunicaciones para <a href="https://www.sittycia.com/">Sitt & Cía</a> y las empresas del grupo (<a href="https://www.pivingenieria.com/">PIV Ingeniería</a>, <a href="https://www.servitrans.co/">Servitrans</a> y <a href="https://www.akencapital.com/">Aken Capital</a>), fortaleciendo el posicionamiento de marca, la visibilidad de servicios y la atracción de clientes y aliados del sector público y privado en los nichos de gobierno, ingeniería, movilidad, construcción e inversiones.
-            - Estructuré y fortalecí el área de Mercadeo y Comunicaciones del grupo, integrando branding, contenidos, SEO y comunicación institucional.
-            - Implementé una estrategia de marketing de contenidos y SEO que generó un crecimiento sostenido del tráfico web del 10% anual y posicionamiento orgánico en keywords estratégicas como detección electrónica, qué es el SIMIT y plan de seguridad vial.
-            - Diseñé acciones de atracción de audiencias especializadas mediante eventos digitales, participación como patrocinadores y speakers en espacios del sector.
-            - Lideré estrategias de email marketing y segmentación de bases de datos, incorporando análisis de datos y scripting en Python para optimización de resultados.
-            - Gestioné la presencia digital y redes sociales de las empresas del grupo, asegurando coherencia de marca.
-            - Acompañé iniciativas de Responsabilidad Social Empresarial, visibilizando la problemática <a href="https://www.youtube.com/watch?v=haroBBqaxTc">“Discapacidad de Origen Vial”</a>, y dirigí la redacción y el arte editorial de informes de sostenibilidad.
-            - Diseñé e implementé el plan de comunicación interna, impulsando cambio cultural y aumentando la participación interna en un 20%.
-            - Realicé capacitaciones en marketing digital para aliados estratégicos, incluyendo la Cámara Británica (Britcham).
-            
+          - Lideré la estructuración y gestión del área de Mercadeo y Comunicaciones para múltiples unidades de negocio.
+          - Coordiné proyectos simultáneos, definiendo prioridades, cronogramas y entregables entre equipos.
+          - Implementé seguimiento de métricas (tráfico, engagement, conversión), utilizando datos para evaluar desempeño y optimizar estrategias.
+          - Desarrollé prácticas de reporting para mejorar la visibilidad de resultados y apoyar la toma de decisiones.
+          - Coordiné equipos multidisciplinarios asegurando alineación entre objetivos estratégicos y ejecución.
+          - Traducí información técnica y normativa en contenidos estructurados y herramientas de comunicación interna.
+          - Fortalecí procesos internos, mejorando la coordinación y participación entre áreas.
+
       - role: Coordinadora de Comunicación y Contenidos (Freelancer)
         time: 2019 - 2023
-        company: <b>REEVO, <a href="https://reevo.wiki/Portada">Red de Educación Alternativa</b></a></b>, ONG Internacional
+        company: <b>REEVO</b>, ONG internacional
         details: |
-          Desarrollo de estrategias de comunicación integral apuntalando la relacion de la ONG con sus organizaciones y comunidades miembros. Mejoramiento de posicionamiento web y planificación de campaña de donaciones y membresías para asegurar la sostenibilidad. Esta ONG se posiciona como la red mas grande Iberoamérica en la temática de Educación Alternativa, proveyendo servicios de información inspirado en el modelo Wikipedia, sin fines de lucro y empleando tecnologías digitales basadas en moodelos ágiles y software de código abierto.
+          - Coordiné procesos de comunicación entre equipos y comunidades en distintos países.
+          - Apoyé estrategias de posicionamiento y sostenibilidad mediante campañas de membresía y donaciones.
+          - Organicé contenidos, flujos de información y planificación editorial para mejorar la consistencia comunicacional.
 
       - role: Business & Inbound Marketing Lead 
         time: 2017 - 2018
-        company: <b>Estoy Contento, <a href="https://multiplica.com/">Multiplica</a></b>, Consultora de Inbound Marketing (HubSpot Gold Partner). Bogotá (CO)
+        company: <b>Contento / Multiplica</b>
         details: |
-          - Lideré proyectos de inbound marketing y crecimiento digital para marcas corporativas de alto impacto, incluyendo Bancolombia y Cementos Argos.
-          - Diseñé y acompañé la implementación de planes estratégicos de inbound marketing, integrando contenido, SEO, automatización y medición de resultados.
-          - Gestioné la estrategia de posicionamiento y generación de demanda de la marca propia de la consultora.
-          - Coordiné equipos multidisciplinarios y realicé seguimiento de KPIs de adquisición, conversión y performance.
+          - Diseñé e implementé estrategias de inbound marketing basadas en datos.
+          - Monitoreé KPIs de adquisición, conversión y engagement para optimizar resultados.
+          - Construí reportes de desempeño para seguimiento y toma de decisiones.
+          - Coordiné equipos multidisciplinarios alineando estrategia, ejecución y resultados.
 
       - role: Senior Account Executive – Marketing & Communications
         time: 2016 - 2017
-        company: <b>Barbara & FrickBarbara</b>, Agencia de publicidad. Bogotá (CO)
+        company: <b>Barbara & Frick</b>
         details: |
-          Lideré la gestión de proyectos de comunicación integrada en medios digitales, ATL y BTL, trabajando de forma articulada con los equipos de estrategia digital, creatividad, diseño, medios y producción para asegurar un posicionamiento diferencial de marca y el cumplimiento de objetivos de comunicación.
-           - Gestioné cuentas y campañas para Central Cervecera, desarrollando un always-on digital para Miller Lite y Miller Genuine Draft, alineado con los lineamientos globales de marca.
-           - Coordiné la campaña de Tosti (Yupi), incluyendo la acción digital <a href="https://www.youtube.com/watch?v=LBEVWFtICPQ">“Quiero ser un youtuber”</a> y su estrategia always-on “Nada más nuestro”.
-           - Acompañé la ejecución de la campaña ATL, BTL y digital de Fedemol, <a href="https://www.youtube.com/watch?v=GdHn6C35wmY">“Come más pan”</a>, asegurando coherencia estratégica y efectividad comunicacional.
-           - Gestioné el diseño del informe de sostenibilidad 2016 para la Fundación Grupo Social, integrando criterios de comunicación corporativa y responsabilidad social.
+          - Gestioné proyectos de comunicación integrada coordinando equipos de estrategia, creatividad, medios y producción.
+          - Administré cronogramas, entregables y relación con clientes.
+          - Aseguré coherencia entre estrategia y ejecución en múltiples campañas simultáneas.
 
-      - role: Innovation & Digital Experience Consultant (Freelance)
+      - role: Innovation & Digital Experience Consultant
         time: 2016
-        company: <b><a href="https://igloolab.co/en/">Igloo Lab</a></b>, Proyectos de Marketing Experiencial. Cali (CO)
+        company: <b>Igloo Lab</b>
         details: |
-          - Brindé consultoría estratégica en planeación digital y diseño de experiencias tecnológicas para campañas de marketing farmacéutico y corporativo.
-          - Diseñé e implementé experiencias inmersivas (VR, AR, hologramas, sensores interactivos y gamificación) alineadas con objetivos de comunicación, engagement y recordación de marca.
-          - Acompañé procesos de conceptualización, ejecución y evaluación de experiencias tecnológicas aplicadas a eventos y activaciones de marca.
-          - Clientes destacados: AstraZeneca y Legrand.
+          - Coordiné proyectos de experiencias digitales desde la conceptualización hasta la ejecución.
+          - Gestioné tiempos, entregables y relación con stakeholders.
+          - Diseñé experiencias alineadas con objetivos de comunicación y engagement.
 
       - role: Social Media & Digital Content Lead
         time: 2014-2016
-        company: <b><a href="https://www.legis.com.co/">LEGIS Editores</a></b>, Sector editorial. Bogotá (CO)
+        company: <b>LEGIS Editores</b>
         details: |
-          - Lideré la estrategia de contenidos y gestión de redes sociales con foco en crecimiento de comunidad, posicionamiento de marca y conversión para la tienda virtual.
-          - Diseñé y ejecuté la planificación editorial omnicanal (redacción, diseño y producción de contenidos) alineada con objetivos comerciales.
-          - Implementé y optimicé campañas de pauta digital orientadas a tráfico, leads y ventas, realizando seguimiento continuo de métricas y KPIs.
-          - Realicé análisis de desempeño, benchmark competitivo, cubrimiento de eventos y gestión de la comunidad digital.
-          - Apoyé el mantenimiento y optimización de sitios web y <i>e-commerce</i>, contribuyendo a la experiencia del usuario y la conversión.
+          - Lideré la estrategia de contenidos y redes sociales con enfoque en desempeño.
+          - Monitoreé métricas y comportamiento de usuarios para optimizar resultados.
+          - Planifiqué y ejecuté contenido alineado con objetivos comerciales.
+          - Apoyé la optimización de plataformas digitales y e-commerce.
 
 projects:
     title: Proyectos
     assignments:
 
-      - title: Won Birin Keren - Todos Somos Iguales
+      - title: Won Birin Keren - Acuwombe
         link: "https://acuwombe.org"
-        tagline: "Diseño e implemento la estrategia de comunicación de Acuwombe, enfocada en posicionamiento, visibilidad y sostenibilidad, conectando el proyecto con audiencias clave, aliados y oportunidades de financiamiento."
+        tagline: "Estructuración de estrategia de comunicación para visibilidad, posicionamiento y sostenibilidad del proyecto, alineando narrativa, audiencias y oportunidades de financiamiento."
 
       - title: tecnosocial.org
         link: "https://tecnosocial.org"
-        tagline: "Soy una de las socias fundadoras de esta cooperativa de comunicación y tecnología, donde un grupos de amigxs unimos experiencias e ideales para trabajar de forma colaborativa apoyando a organizaciones sociales, empresas locales, cooperativas y ONGs a desarrollar sus proyectos en medios digitales."
-
-      - title: Astrología Social
-        link: "https://astrologiasocial.org"
-        tagline: "Soy una apasionada de la astrología y otros técnicas relacionadas para el autoconocimiento. Con este nuevo proyecto busco brindar herramientas para su comprensión y difusión."
+        tagline: "Co-fundadora de cooperativa de comunicación y tecnología enfocada en apoyar organizaciones sociales y proyectos de impacto."
 
       - title: Proyecto Florecer
         link: "https://proyectoflorecer.org/"
-        tagline: "Creé una estrategia de comunicacíón digital para cumplir los objetivos de esta ONG colombiana abocada a la promoción de los derechos de la mujer, el fortalecimiento comunitario y la promoción de oportunidades educativas para sus familias."
+        tagline: "Diseño de estrategia digital para fortalecer comunicación, alcance y sostenibilidad de la organización."
 
-
-publications:
-    title: Publicaciones
-    papers:
-      - title: Expectativas de uso de las Facebook fan page, componentes e implicaciones
-        link: "https://evo.re/lina1"
-        authors: Lina Margarita Contreras Quintero, Claudia Giobanna Nova Villarraga y Leonardo Ortegón-Cortázar
-        conference:  Estrategias de mercadotecnia en mercados específicos. Universidad Autónoma de México, 2020
-
+      - title: Astrología Social
+        link: "https://astrologiasocial.org"
+        tagline: "Proyecto personal de contenido enfocado en autoconocimiento y divulgación."
 
 skills:
     title: Habilidades Clave
 
     toolset:
-      - name: Diseño (Adobe Suite y Canva)
-        level: 90%
+      - name: Gestión de proyectos & colaboración (ClickUp, Slack, Notion, G Workspace)
+        level: 80%
 
-      - name: Web & CMS (WordPress, Squarespace, Shopify)
+      - name: Analítica & medición (GA4, métricas digitales, reporting)
+        level: 75%
+
+      - name: CRM & automatización (HubSpot, Mailchimp)
+        level: 85%
+
+      - name: Web & CMS (WordPress, Squarespace)
         level: 70%
 
-      - name: Analítica (GA4)
+      - name: Social & pauta digital
         level: 70%
-
-      - name: Social & pauta (Meta, G Ads, Hootsuite)
-        level: 70%
-
-      - name: Email & CRM (HubSpot, Mailchimp)
-        level: 95%
 
       - name: IA & automatización
         level: 60%
 
-      - name: Gestión & colaboración (G Workspace, Discord, Slack, ClickUp, GitHub)
-        level: 75%
-
-      - name: Barismo
-        level: 30%
-
-      - name: Astrología
+      - name: Diseño (Adobe, Canva)
         level: 80%
 
-
-
 footer: >
-    Última actualización: 02.01.2026
+    Última actualización: 2026
